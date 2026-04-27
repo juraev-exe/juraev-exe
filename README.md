@@ -22,10 +22,11 @@ My work sits at the intersection of security, full-stack development, automation
 
 ## Current Focus
 
-- Building a full-stack AI meeting summary tool with `FastAPI`, `Whisper`, `Claude API`, `Celery`, and `React`
 - Improving my `C++` skills through real utilities and system-level projects
 - Getting sharper with `React`, `TypeScript`, `Node.js`, and `Express`
-- Exploring useful, ad-free tools for Windows and the web
+- Exploring useful, ad-fre tools for Windows and the web
+- Learning more about AI
+- Learning via Course's 
 
 ## Tech Stack
 
@@ -71,16 +72,8 @@ My work sits at the intersection of security, full-stack development, automation
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=adobexd&logoColor=white)
 
-## Featured Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [PrivCheck](https://github.com/juraev-exe/PrivCheck) | A privacy-check utility for Windows focused on practical system inspection. | `Batch` / `Shell` |
-| Cyberpunk Portfolio | A personal portfolio with animated visuals, layered backgrounds, and a stylized UI direction. | `React`, `CSS` |
-| YouTube Downloader | A dual-theme web app with a clean UI and contrasting visual modes. | `HTML`, `CSS`, `JavaScript` |
-| AI Meeting Summary | A tool for meeting transcription, summarization, and workflow-friendly output. | `FastAPI`, `Whisper`, `Claude API`, `React` |
 
 ## GitHub Analytics
 
@@ -99,7 +92,7 @@ My work sits at the intersection of security, full-stack development, automation
 
 ### In Tech
 
-- Local LLMs, `llama.cpp`, GGUF quantization, and efficient inference workflows
+- Local LLMs,  GGUF quantization, and efficient inference workflows
 - Cybersecurity concepts, defensive tooling, and privacy-focused software
 - System programming and low-level problem solving with `C++`
 - AI-powered workflows, automation, and developer tools
@@ -120,7 +113,7 @@ My work sits at the intersection of security, full-stack development, automation
 
 ## Philosophy
 
-- Build things that are useful
+- Build useful things
 - Keep the experience clean
 - Prefer speed, simplicity, and clarity
 - Stay consistent, even while learning
