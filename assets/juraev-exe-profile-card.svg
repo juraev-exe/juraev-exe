@@ -1,27 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">JA / juraev.exe</title>
-  <desc id="desc">Cybersecurity, software development, and automation.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="500" viewBox="0 0 1180 500" role="img" aria-labelledby="title description">
+  <title id="title">juraev-exe profile card</title>
+  <desc id="description">A dark animated terminal card for JA, focused on cybersecurity, software development, and automation.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#0b1020"/>
-      <stop offset="1" stop-color="#101827"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" x2="1">
-      <stop stop-color="#38bdf8" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
-    </linearGradient>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080c14"/><stop offset="1" stop-color="#0e1726"/></linearGradient>
+    <linearGradient id="glow" x1="0" x2="1"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#38bdf8" stroke-opacity=".055"/></pattern>
+    <filter id="softGlow" x="-20%" y="-100%" width="140%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1198" height="298" rx="23" fill="none" stroke="#334155"/>
-  <circle cx="88" cy="84" r="8" fill="#38bdf8">
-    <animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
-  <text x="116" y="92" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24">online / building in public</text>
-  <text x="80" y="164" fill="#f8fafc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="700">JA <tspan fill="#38bdf8">/</tspan> juraev.exe</text>
-  <text x="84" y="215" fill="#cbd5e1" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30">Cybersecurity  •  Software Development  •  Automation</text>
-  <rect x="80" y="250" width="1040" height="2" fill="url(#line)">
-    <animate attributeName="width" values="220;1040;220" dur="3.6s" repeatCount="indefinite"/>
-  </rect>
+  <rect width="1180" height="500" rx="20" fill="url(#background)"/>
+  <rect width="1180" height="500" rx="20" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1178" height="498" rx="19" fill="none" stroke="#334155"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <circle cx="48" cy="48" r="7" fill="#fb7185"/><circle cx="72" cy="48" r="7" fill="#fbbf24"/><circle cx="96" cy="48" r="7" fill="#34d399"/>
+    <text x="138" y="55" fill="#94a3b8" font-size="18">juraev-exe / profile</text>
+    <line x1="32" y1="82" x2="1148" y2="82" stroke="#334155"/>
+    <text x="56" y="132" fill="#22d3ee" font-size="22">$ whoami</text>
+    <text x="56" y="174" fill="#f8fafc" font-size="42" font-weight="700">JA / juraev.exe</text>
+    <text x="56" y="214" fill="#cbd5e1" font-size="20">Cybersecurity student · software developer · automation builder</text>
+    <text x="56" y="282" fill="#22d3ee" font-size="22">$ focus</text>
+    <text x="56" y="318" fill="#e2e8f0" font-size="19">C++ utilities  ·  full-stack applications  ·  defensive tooling  ·  AI workflows</text>
+    <text x="56" y="386" fill="#22d3ee" font-size="22">$ stack</text>
+    <text x="56" y="422" fill="#e2e8f0" font-size="19">C++  Python  TypeScript  React  Node.js  FastAPI  PostgreSQL  Linux</text>
+    <text x="56" y="462" fill="#64748b" font-size="17">status:</text>
+    <circle cx="132" cy="456" r="5" fill="#34d399" filter="url(#softGlow)"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="148" y="462" fill="#94a3b8" font-size="17">building · learning · shipping</text>
+    <text x="906" y="462" fill="#22d3ee" font-size="17"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</text>
+  </g>
+  <rect x="32" y="478" width="1116" height="2" fill="url(#glow)"><animate attributeName="width" values="180;1116;180" dur="4s" repeatCount="indefinite"/></rect>
 </svg>
 
