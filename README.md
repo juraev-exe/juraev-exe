@@ -1,3 +1,5 @@
+![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=juraev-exe&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1)
+
 <div align="center">
   <img src="./assets/juraev-exe-profile-card.svg" alt="JA — cybersecurity, software development, and automation" width="100%" />
 
@@ -49,4 +51,12 @@ I’m **JA**, a cybersecurity student and software developer from Tajikistan. I 
   <img src="https://github-readme-stats.vercel.app/api?username=juraev-exe&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent" alt="GitHub activity for juraev-exe" />
 </a>
 
+![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=juraev-exe&theme=zen&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dzen%26family%3Doriginal%26originalVariant%3D1)
+
 <sub>Building, learning, and shipping.</sub>
+
+## Connect
+
+![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=juraev-exe&theme=zen&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dzen%26family%3Doriginal%26originalVariant%3D1&linkedin=in%2FJuraev&email=abubakrjuraev123%40gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/juraev.exe/)
