@@ -2,9 +2,6 @@
 
 <div align="center">
   <img src="./assets/juraev-exe-profile-card.svg" alt="JA — cybersecurity, software development, and automation" width="100%" />
-
-  <a href="https://github.com/juraev-exe">GitHub</a> ·
-  <a href="https://www.instagram.com/juraev.exe/">Instagram</a>
 </div>
 
 ## About
