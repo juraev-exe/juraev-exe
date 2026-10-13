@@ -1,53 +1,107 @@
 ![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=juraev-exe&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1)
 
 <div align="center">
-  <img src="./assets/juraev-exe-profile-card.svg" alt="JA — cybersecurity, software development, and automation" width="100%" />
+  <img src="./assets/juraev-exe-profile-card.svg" alt="JA | Software Development, Cybersecurity and AI" width="100%" />
 </div>
 
-## About
+<div align="center">
 
-I’m **JA**, a cybersecurity student and software developer from Tajikistan. I build practical tools at the intersection of security, automation, and full-stack development—with an emphasis on clean code, strong fundamentals, and useful outcomes.
+  ![Profile Views](https://komarev.com/ghpvc/?username=juraev-exe&style=flat-square&color=64748b&label=PROFILE+VIEWS)
 
-## Focus
+</div>
 
-- C++ utilities and system-focused projects
-- React, TypeScript, Node.js, and Express
-- Defensive security tooling and privacy-minded software
-- AI-powered workflows and developer automation
+## About Me
 
-## Stack
+I'm JA, a cybersecurity student and software developer from Tajikistan. I build practical software, explore AI-powered workflows, and develop tools that solve real problems.
+
+- Developing personal software projects and automation tools.
+- Exploring cybersecurity, backend architecture, and system design.
+- Learning Docker, Redis, and scalable application development.
+- Interested in open-source collaboration and developer tooling.
+
+## Current Focus
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Cloud" />
+  <img src="https://img.shields.io/badge/01-C%2B%2B%20%26%20Systems-161B22?style=flat-square" />
+  <img src="https://img.shields.io/badge/02-Full--Stack%20Development-161B22?style=flat-square" />
+  <img src="https://img.shields.io/badge/03-Cybersecurity-161B22?style=flat-square" />
+  <img src="https://img.shields.io/badge/04-AI%20%26%20Automation-161B22?style=flat-square" />
+</p>
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css" alt="Programming languages" />
+</p>
+
+**Frontend and backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind" alt="Web development technologies" />
+</p>
+
+**Databases and infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux" alt="Databases and infrastructure" />
+</p>
+
+**Tools and deployment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,netlify,supabase" alt="Development tools" />
+</p>
+
+**Creative tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere" alt="Creative software" />
 </p>
 
 ## GitHub Activity
 
 ![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=juraev-exe&theme=zen&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dzen%26family%3Doriginal%26originalVariant%3D1)
 
-<sub>Building, learning, and shipping.</sub>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=juraev-exe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=juraev-exe&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
+</div>
 
-## Connect
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraev-exe&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+</div>
 
-![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=juraev-exe&theme=zen&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dzen%26family%3Doriginal%26originalVariant%3D1&linkedin=in%2FJuraev&email=abubakrjuraev123%40gmail.com)
+## Beyond Code
+
+Gaming, reading, creative software, and exploring new technologies. I enjoy combining technical knowledge with practical ideas.
+
+## Connect With Me
+
+![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=juraev-exe&theme=zen&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dzen%26family%3Doriginal%26originalVariant%3D1&linkedin=in%2Fabubakr-juraev-b769153a4&email=abubakrjuraev123%40gmail.com)
+
+<p align="center">
+  <a href="https://instagram.com/juraev.exe">
+    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="https://x.com/juraev2004exe">
+    <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/juraev-exe">
+    <img src="https://img.shields.io/badge/CodePen-161B22?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/JURAEV.EXE">
+    <img src="https://img.shields.io/badge/Pinterest-161B22?style=for-the-badge&logo=pinterest&logoColor=E60023" />
+  </a>
+  <a href="https://facebook.com/100087619038608">
+    <img src="https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+  </a>
+  <a href="https://linkedin.com/in/abubakr-juraev-b769153a4">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Build with purpose. Learn continuously. Ship useful software.</sub>
+</p>
