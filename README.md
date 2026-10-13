@@ -1,213 +1,112 @@
-![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=juraev-exe&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1)
-
 <div align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=juraev-exe&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1" alt="GitSkins Animated Hero" width="100%" />
+
+  <!-- Animated Typing Intro -->
+  <a href="https://github.com/juraev-exe"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=64748B&center=true&vCenter=true&width=600&lines=%3E_System.out.println(%22Hello%2C+World!%22)%3B;Software+Development+%7C+Cybersecurity+%7C+AI;Building+practical+software+%26+automation;Exploring+modern+developer+tooling" alt="Typing SVG" /></a>
+
   <img src="./assets/juraev-exe-profile-card.svg" alt="JA | Software Development, Cybersecurity and AI" width="100%" />
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=juraev-exe&style=for-the-badge&color=64748B&label=PROFILE+VIEWS&labelColor=161B22" alt="Profile Views" />
 </div>
+
+<br/>
 
 <div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=juraev-exe&style=flat-square&color=64748b&label=PROFILE+VIEWS)
-
+  <!-- Animated Header 1 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=3000&color=FFFFFF&center=true&vCenter=true&width=400&lines=%E2%9D%AF+cat+about_me.txt" alt="cat about_me.txt" />
+  
+  <p align="center">
+    I'm <b>JA</b>, a cybersecurity student and software developer from Tajikistan.<br>
+    I build practical software, explore AI-powered workflows, and develop tools that solve real problems.
+  </p>
 </div>
 
-## About Me
-
-I'm JA, a cybersecurity student and software developer from Tajikistan. I build practical software, explore AI-powered workflows, and develop tools that solve real problems.
-
-- Developing personal software projects and automation tools.
-- Exploring cybersecurity, backend architecture, and system design.
-- Learning Docker, Redis, and scalable application development.
-- Interested in open-source collaboration and developer tooling.
-
-## Current Focus
-
-<p>
-  <img src="https://img.shields.io/badge/01-C%2B%2B%20%26%20Systems-161B22?style=flat-square" />
-  <img src="https://img.shields.io/badge/02-Full--Stack%20Development-161B22?style=flat-square" />
-  <img src="https://img.shields.io/badge/03-Cybersecurity-161B22?style=flat-square" />
-  <img src="https://img.shields.io/badge/04-AI%20%26%20Automation-161B22?style=flat-square" />
-</p>
-
-## Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css" alt="Programming languages" />
-</p>
-
-**Frontend and backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind" alt="Web development technologies" />
-</p>
-
-**Databases and infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux" alt="Databases and infrastructure" />
-</p>
-
-**Tools and deployment**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,netlify,supabase" alt="Development tools" />
-</p>
-
-**Creative tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere" alt="Creative software" />
-</p>
-
-## GitHub Activity
-
-![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=juraev-exe&theme=zen&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dzen%26family%3Doriginal%26originalVariant%3D1)
+<br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=juraev-exe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=juraev-exe&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
+  <img src="https://img.shields.io/badge/C%2B%2B_%26_Systems-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ & Systems" />
+  <img src="https://img.shields.io/badge/Full_Stack_Dev-000000?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Dev" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/AI_%26_Automation-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Automation" />
 </div>
+
+<br/>
+<hr style="border: 1px solid #161B22; width: 60%;" />
+<br/>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraev-exe&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+  <!-- Animated Header 2 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=3000&color=FFFFFF&center=true&vCenter=true&width=400&lines=%E2%9D%AF+.%2Fstack.sh" alt="./stack.sh" />
+  <br/>
+  
+  <p><b>Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css&theme=dark" alt="Programming languages" />
+  
+  <br/><br/>
+  
+  <p><b>Frontend & Backend</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind&theme=dark" alt="Web development technologies" />
+  
+  <br/><br/>
+  
+  <p><b>Databases & Infrastructure</b></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux&theme=dark" alt="Databases and infrastructure" />
+  
+  <br/><br/>
+  
+  <p><b>Tools & Deployment</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,netlify,supabase&theme=dark" alt="Development tools" />
+  
+  <br/><br/>
+  
+  <p><b>Creative Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere&theme=dark" alt="Creative software" />
 </div>
 
-## Beyond Code
+<br/>
+<hr style="border: 1px solid #161B22; width: 60%;" />
+<br/>
 
-Gaming, reading, creative software, and exploring new technologies. I enjoy combining technical knowledge with practical ideas.
+<div align="center">
+  <!-- Animated Header 3 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=3000&color=FFFFFF&center=true&vCenter=true&width=400&lines=%E2%9D%AF+.%2Factivity.sh" alt="./activity.sh" />
+  <br/>
+  
+  <!-- Heatmap -->
+  <img src="https://www.gitskins.com/api/section/heatmap?username=juraev-exe&theme=zen&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dzen%26family%3Doriginal%26originalVariant%3D1" alt="GitSkins Animated Heatmap" width="100%" />
+</div>
 
-## Connect With Me
-## Connect
+<br/>
 
-<p align="center">
-  <a href="https://github.com/juraev-exe">GitHub</a> ·
-  <a href="https://linkedin.com/in/abubakr-juraev-b769153a4">LinkedIn</a> ·
-  <a href="mailto:abubakrjuraev123@gmail.com">Email</a> ·
-  <a href="https://instagram.com/juraev.exe">Instagram</a> ·
-  <a href="https://x.com/juraev2004exe">X</a> ·
-  <a href="https://codepen.io/juraev-exe">CodePen</a> ·
-  <a href="https://pinterest.com/JURAEV.EXE">Pinterest</a>
-</p>
+<div align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=juraev-exe&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=64748B&fire=64748B&currStreakNum=FFFFFF" alt="Contribution streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraev-exe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used languages" />
+</div>
 
-<p align="center">
-  <sub>Build with purpose. Learn continuously. Ship useful software.</sub>
-![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=juraev-exe&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1)
+<br/>
+<hr style="border: 1px solid #161B22; width: 60%;" />
+<br/>
 
-<h2 align="center">JA | Software Developer</h2>
+<div align="center">
+  <!-- Animated Header 4 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=3000&color=FFFFFF&center=true&vCenter=true&width=400&lines=%E2%9D%AF+ping+juraev.exe" alt="ping juraev.exe" />
+  <br/>
+  
+  <p align="center">
+    <a href="https://github.com/juraev-exe"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/abubakr-juraev-b769153a4"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:abubakrjuraev123@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://instagram.com/juraev.exe"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://x.com/juraev2004exe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://codepen.io/juraev-exe"><img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+    <a href="https://pinterest.com/JURAEV.EXE"><img src="https://img.shields.io/badge/PINTEREST-000000?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+  </p>
 
-<p align="center">
-  Cybersecurity Student · Software Developer · Automation Builder
-</p>
+  <br/>
 
-<p align="center">
-  <a href="https://github.com/juraev-exe">GitHub</a> ·
-  <a href="https://linkedin.com/in/abubakr-juraev-b769153a4">LinkedIn</a> ·
-  <a href="mailto:abubakrjuraev123@gmail.com">Email</a>
-</p>
-
----
-
-## About Me
-
-I'm JA, a cybersecurity student and software developer from Tajikistan. I build practical software, explore AI-powered workflows, and develop tools that solve real problems.
-
-- Building personal software projects and automation tools.
-- Exploring cybersecurity, backend architecture, and system design.
-- Learning Docker, Redis, and scalable application development.
-- Interested in open-source collaboration and developer tooling.
-
-## Current Focus
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-Systems%20Programming-161B22?style=flat-square&logo=cplusplus&logoColor=00E5FF" alt="C++" />
-  <img src="https://img.shields.io/badge/Full--Stack-Development-161B22?style=flat-square&logo=typescript&logoColor=00E5FF" alt="Full-stack development" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Defensive%20Tools-161B22?style=flat-square&logo=kalilinux&logoColor=00E5FF" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/AI-Automation-161B22?style=flat-square&logo=openai&logoColor=00E5FF" alt="AI automation" />
-</p>
-
-## Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css" alt="C, C++, Python, JavaScript, TypeScript, HTML and CSS" />
-</p>
-
-**Frontend and backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind" alt="React, Node.js, Express, FastAPI and Tailwind CSS" />
-</p>
-
-**Databases and infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker and Linux" />
-</p>
-
-**Development and deployment**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,netlify,supabase" alt="Git, GitHub, GitHub Actions, VS Code, Vercel, Netlify and Supabase" />
-</p>
-
-**Creative tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere" alt="Adobe Photoshop, Illustrator, After Effects and Premiere Pro" />
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=juraev-exe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=bc13fe&include_all_commits=true" alt="GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=juraev-exe&theme=transparent&hide_border=true&background=0D1117&ring=BC13FE&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=808080" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraev-exe&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" alt="Most used programming languages" />
-</p>
-
-![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=juraev-exe&theme=zen&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dzen%26family%3Doriginal%26originalVariant%3D1)
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/juraev-exe">
-    <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=flat-square&logo=github&logoColor=00E5FF" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/abubakr-juraev-b769153a4">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abubakrjuraev123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-161B22?style=flat-square&logo=gmail&logoColor=BC13FE" alt="Email" />
-  </a>
-  <a href="https://instagram.com/juraev.exe">
-    <img src="https://img.shields.io/badge/Instagram-Follow-161B22?style=flat-square&logo=instagram&logoColor=BC13FE" alt="Instagram" />
-  </a>
-  <a href="https://x.com/juraev2004exe">
-    <img src="https://img.shields.io/badge/X-Follow-161B22?style=flat-square&logo=x&logoColor=00E5FF" alt="X" />
-  </a>
-  <a href="https://codepen.io/juraev-exe">
-    <img src="https://img.shields.io/badge/CodePen-Projects-161B22?style=flat-square&logo=codepen&logoColor=FFFFFF" alt="CodePen" />
-  </a>
-  <a href="https://pinterest.com/JURAEV.EXE">
-    <img src="https://img.shields.io/badge/Pinterest-Explore-161B22?style=flat-square&logo=pinterest&logoColor=BC13FE" alt="Pinterest" />
-  </a>
-  <a href="https://facebook.com/100087619038608">
-    <img src="https://img.shields.io/badge/Facebook-Connect-161B22?style=flat-square&logo=facebook&logoColor=00E5FF" alt="Facebook" />
-  </a>
-</p>
-
-## Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juraev-exe&style=for-the-badge&color=00e5ff&label=PROFILE%20VIEWS" alt="GitHub profile view counter" />
-</p>
-
-<p align="center">
-  <sub>BUILD WITH PURPOSE · LEARN CONTINUOUSLY · SHIP USEFUL SOFTWARE</sub>
-</p>
-</p>
-
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=2000&color=64748B&center=true&vCenter=true&width=400&lines=BUILD+WITH+PURPOSE.;LEARN+CONTINUOUSLY.;SHIP+USEFUL+SOFTWARE." alt="Footer Animation" />
+  </p>
+</div>
