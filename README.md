@@ -12,7 +12,7 @@
   </p>
 </div>
 
-## 🌱 `cat about_me.md`
+## `cat about_me.md`
 
 I'm **JA**, a cybersecurity student and software developer from Tajikistan. I build practical software, explore AI-powered workflows, and develop tools that solve real problems.
 
@@ -23,7 +23,7 @@ I'm **JA**, a cybersecurity student and software developer from Tajikistan. I bu
   <img src="https://img.shields.io/badge/AI_%26_Automation-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI and automation" />
 </div>
 
-## 🧩 `./stack.sh`
+## `./stack.sh`
 
 <div align="center">
 
@@ -37,12 +37,12 @@ I'm **JA**, a cybersecurity student and software developer from Tajikistan. I bu
 
 </div>
 
-## ✨ `./projects`
+## `./projects`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/juraev-exe/WhereDidItGoNew">💸 WhereDidItGoNew</a></h3>
+      <h3><a href="https://github.com/juraev-exe/WhereDidItGoNew">WhereDidItGoNew</a></h3>
       <p>Local-first personal finance tracker for expenses, budgets, debts, and spending insights.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
@@ -51,7 +51,7 @@ I'm **JA**, a cybersecurity student and software developer from Tajikistan. I bu
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/juraev-exe/PersonalDashboard">🧭 PersonalDashboard</a></h3>
+      <h3><a href="https://github.com/juraev-exe/PersonalDashboard">PersonalDashboard</a></h3>
       <p>Offline-first personal dashboard for tasks, habits, focus, and finances.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
@@ -62,7 +62,7 @@ I'm **JA**, a cybersecurity student and software developer from Tajikistan. I bu
   </tr>
 </table>
 
-## 📈 `./activity.sh`
+## `./activity.sh`
 
 <div align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=juraev-exe&theme=zen&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Djuraev-exe%26theme%3Dzen%26family%3Doriginal%26originalVariant%3D1" alt="Contribution heatmap" width="100%" />
@@ -73,7 +73,7 @@ I'm **JA**, a cybersecurity student and software developer from Tajikistan. I bu
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juraev-exe&theme=tokyonight" alt="Top languages by commit" />
 </div>
 
-## 🤝 `./ping_me.exe`
+## `./ping_me.exe`
 
 <div align="center">
   <a href="https://github.com/juraev-exe"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
