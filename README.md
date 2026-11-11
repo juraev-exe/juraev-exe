@@ -25,6 +25,8 @@ I'm **JA**, a cybersecurity student and software developer from Tajikistan. I bu
 
 ## 🧩 `./stack.sh`
 
+<div align="center">
+
 <p><b>Languages</b><br/><img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css&theme=dark" alt="C++, C, Python, JavaScript, TypeScript, HTML, and CSS" /></p>
 
 <p><b>Frontend and backend</b><br/><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind&theme=dark" alt="React, Node.js, Express, FastAPI, and Tailwind" /></p>
@@ -32,6 +34,8 @@ I'm **JA**, a cybersecurity student and software developer from Tajikistan. I bu
 <p><b>Data and infrastructure</b><br/><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, and Linux" /></p>
 
 <p><b>Tools and creative</b><br/><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,netlify,supabase,photoshop,illustrator,aftereffects,premiere&theme=dark" alt="Development, deployment, and creative tools" /></p>
+
+</div>
 
 ## ✨ `./projects`
 
